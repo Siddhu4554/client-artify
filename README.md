@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 # artify-client
 # artify-client
 # artify
+# artify-client
